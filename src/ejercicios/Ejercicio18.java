@@ -13,4 +13,5 @@ public static void main(String[] args) {
 
     System.out.println("" + a + " elevado a la potencia de " + b + " es: " + potencia);
 }
+
 }
